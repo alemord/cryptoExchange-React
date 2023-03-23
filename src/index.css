@@ -1,0 +1,36 @@
+
+body {
+  margin: 0;
+  align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://www.coindesk.com/resizer/yEqK-UnmsBl2ncREA_eV5yJUEYo=/567x370/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KX5QPMU5WBH2PEQ7F5JGYMD46Q.jpg');
+  background-size: cover;
+
+  background-repeat: no-repeat;
+}
+
+
+code {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: aliceblue;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(0, 0, 0, 0.532);
+  color: white;
+  padding: 35px;
+  font-size: 3em;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+}
+
